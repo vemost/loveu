@@ -1,15 +1,15 @@
 const CONFIG = {
-    titleWeb: "nguyenthang",
-    introTitle: 'Oanh',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
+    titleWeb: "chỉ muốn ngắm em cả đêm",
+    introTitle: 'hold lấy em từ đằng sau gáy, damn',
+    introDesc: `Mong em sẽ không nhớ về
+    uh
+    Một người từng thương em nhiều như thế
+    yeah người đã thương em nhiều tư thế`,
+    btnIntro: 'chỉ muốn ngắm em cả đêm',
+    title: 'Đi nhà nghỉ với anh hong 🥰',
+    desc: 'Bò, lăn, trườn, vuốt ve cặp chân giò măng chườm thuốc mê Còn hai quả banh chuyền cúp D',
+    btnYes: 'Đi chứ <33',
+    btnNo: 'Nghỉ cái dmm :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
