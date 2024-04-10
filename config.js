@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "chỉ muốn ngắm em cả đêm",
-    introTitle: 'hold lấy em từ đằng sau gáy, damn',
+    titleWeb: "đi nhà nghỉ nha",
+    introTitle: 'Nhà nghỉ là gì ?',
     introDesc: `Nhà nghỉ hay nhà khách là nơi người ta làm dịch vụ nghỉ ngơi cho khách qua đường. Người ta có thể thuê phòng ở đây để nghỉ. Một nhà nghỉ có nhiều phòng, ...`,
     btnIntro: 'Hiểu rồi thì nhấn vô đây',
     title: 'Đi nhà nghỉ với anh hong 🙂',
